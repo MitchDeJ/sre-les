@@ -1,4 +1,4 @@
-package sre.ducks.behaviors.fly;
+package sre.animals.ducks.behaviors;
 
 public class FlyNoWay implements FlyBehavior {
 

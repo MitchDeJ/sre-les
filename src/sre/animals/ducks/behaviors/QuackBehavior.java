@@ -1,4 +1,4 @@
-package sre.ducks.behaviors.quack;
+package sre.animals.ducks.behaviors;
 
 public interface QuackBehavior {
 
